@@ -6,7 +6,7 @@
 
 Measured on 27 October 2026 with git 2.54.0: **four of six came back, two were gone**, and the dividing line is a single command.
 
-> **Read the article:** [How to Undo What an AI Assistant Broke, and What Back4app Rolls Back for You](https://www.back4app.com/blog/undo-what-an-ai-assistant-broke?utm_source=github&utm_medium=repo&utm_campaign=recover-lab)
+> **Read the article:** [How to Undo Changes an AI Coding Assistant Made: What Git Recovers, What the Platform Recovers, What Is Gone](https://www.back4app.com/blog/undo-ai-assistant-code-changes?utm_source=github&utm_medium=repo&utm_campaign=recover-lab)
 
 ## Run it
 
